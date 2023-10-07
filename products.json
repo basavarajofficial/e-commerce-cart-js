@@ -1,0 +1,51 @@
+{
+    "Products" : [
+        {
+            "id": 1,
+            "name": "fashion clothes",
+            "new" : true,
+            "image" : "./images/product1.jpg",
+            "ratings" : "4.5",
+            "price" : 499,
+            "qty" : 1
+        },
+        {
+            "id": 2,
+            "name": "Trending Italian",
+            "new" : true,
+            "image" : "./images/product2.jpg",
+            "ratings" : "4.5",
+            "price" : "599",
+            "qty" : 1
+        },
+        {
+            "id": 3,
+            "name": "Gucchhii Shops",
+            "new" : false,
+            "image" : "./images/product3.jpg",
+            "ratings" : "4.5",
+            "price" : "1599",
+            "qty" : 1
+        },
+        {
+            "id": 4,
+            "name": "New Trends",
+            "new" : true,
+            "image" : "./images/product4.jpg",
+            "ratings" : "4.5",
+            "price" : "2999",
+            "qty" : 1
+        },
+        {
+            "id": 5,
+            "name": "Diamond cloth",
+            "new" : false,
+            "image" : "./images/prodcut5.jpg",
+            "ratings" : "4.5",
+            "price" : "8999",
+            "qty" : 1
+        }
+        
+    ]
+
+}

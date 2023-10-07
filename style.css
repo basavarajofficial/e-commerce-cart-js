@@ -1,0 +1,58 @@
+.nav{
+    background-color: navy;
+    padding: 15px;
+    display: flex;
+}
+a{
+    color: #fff;
+    background-color: red;
+    border-radius: 8px;
+    text-decoration: none;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
+
+#main, #mainCart{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    
+    gap: 20px;
+}
+
+.product{
+    width: fit-content;
+    padding: 10px;
+    box-shadow: 2px 2px 7px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.btn{
+    padding: 6px 15px;
+    background-color: navy;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+
+.quantity {
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+}
+.quantity > span{
+    cursor: pointer;
+    
+}
+
+img{
+    border-radius: 10px;
+}
